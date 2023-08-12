@@ -9,3 +9,7 @@ header {
 .titulo {
   color: White;
 }
+
+.titulocategoria {
+  background-color: gray;
+}
